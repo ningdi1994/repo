@@ -1,0 +1,26 @@
+Kafka,
+Redis cache,
+Spring security?
+MyBatis, 
+Oracle,
+MySql,
+Hibernate,
+Spring boot,
+Spring,
+Spring MVC,
+MicroService,
+Feign,
+RestTemplate,
+Json,
+Jackson,
+Zuul API gateway,
+Eureka,
+Ribbon,
+Zipkin,
+Spring sleuth,
+
+
+change zipkin level to error level,  can not change since the Zipkin server doesn't work well.
+
+Check ribbon is working or not,
+Set ribbon balance config (try),
